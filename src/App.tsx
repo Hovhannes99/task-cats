@@ -1,13 +1,10 @@
 import React from 'react';
+import Cats from "./pages/cats";
 
 
 function App() {
     return (
-        <div>
-            <header>
-
-            </header>
-        </div>
+      <Cats/>
     );
 }
 
